@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=dot-problem-example.timsueberkrueb
+Exec=dot-problem-example.timsueberkrueb
+Icon=icon.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

@@ -1,0 +1,15 @@
+{
+    "name": "dot-problem-example.timsueberkrueb",
+    "description": "description of dot-problem-example",
+    "architecture": "@CLICK_ARCH@",
+    "title": "dot-problem-example",
+    "hooks": {
+        "dot-problem-example.timsueberkrueb": {
+            "apparmor": "dot-problem-example.timsueberkrueb.apparmor",
+            "desktop": "dot-problem-example.timsueberkrueb.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Firstname Surname <your@mail.com>",
+    "framework": "ubuntu-sdk-15.04.6"
+}
